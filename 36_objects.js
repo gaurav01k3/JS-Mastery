@@ -1,4 +1,4 @@
-// objects or onject literal
+// objects or object literal
 
 console.log("OBJECTS");
 
