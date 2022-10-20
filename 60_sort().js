@@ -110,9 +110,9 @@
 
 // correct way to sort numbers
 // const numbers = [5, 9, 1200, 400, 3000];
-// numbers.sort((a, b) => { // this will take callback as comparator in c++ to sort
-//     return a - b; // for desc b-a
-// });
+numbers.sort((a, b) => { // this will take callback as comparator in c++ to sort
+    return a - b; // for desc b-a
+});
 
 // a, b 
 // a-b --> +ve value

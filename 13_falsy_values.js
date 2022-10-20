@@ -3,5 +3,5 @@
 // false
 // ""
 // null
-// undeined
+// undefined
 // 0
