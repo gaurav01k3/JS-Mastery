@@ -1,6 +1,6 @@
-myfunc();
+// myfunc();
 
 
-function myfunc() {
-    console.log("Hello");
-}
+// function myfunc() {
+//     console.log("Hello");
+// }
