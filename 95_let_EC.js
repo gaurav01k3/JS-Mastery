@@ -1,4 +1,7 @@
-// console.log(firstName); //Uncaught ReferenceError: Cannot access 'firstName' before initialization but it is in memory
+// console.log(firstName); 
+//Uncaught ReferenceError: Cannot access 'firstName'before initialization but it is in memory
+
+// TEMPORAL DEAD ZONE 
 
 // let firstName = "Harshit";
 

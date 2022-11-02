@@ -27,7 +27,7 @@ const todoList = document.querySelector(".todo-list");
 
 // before
 // after 
-// they both work outside the elements
+// they both work outside the element
 
 const newTodoItem = document.createElement("li");
 newTodoItem.textContent = "Teach students";

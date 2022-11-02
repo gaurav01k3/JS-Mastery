@@ -1,7 +1,7 @@
 //_static_vs_live_list
 
-// querySelectorAll hame static list dete h elemnts ki
-// getElementBySomething hame live list dete h elemnts ki
+// querySelectorAll hame static list dete h elements ki
+// getElementBySomething hame live list dete h elements ki
 
 
 const ul = document.querySelector(".todo-list");

@@ -16,4 +16,4 @@ console.log(todoList.innerHTML);
 // not use when 
 // this is not efficient as it will also add previous html also
 
-// use when want to chnage the whole html
+// use when want to change the whole html

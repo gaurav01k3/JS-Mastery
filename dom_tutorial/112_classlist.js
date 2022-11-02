@@ -14,6 +14,7 @@
 
 
 // if class exists this will add , if not exits this will remove the class
+// toggle kam ki cheez h yrr 
 // sectionTodo.classList.toggle("bg-color");
 // console.log(sectionTodo.classList);
 

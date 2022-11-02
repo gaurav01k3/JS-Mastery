@@ -17,7 +17,7 @@
 
 // Browser 2 kaam krega 
 
-// 1. JS engine ko call back dega ki perform kr.
+// 1. JS engine ko call back me function pass kr dega jo event mein diya hai.
 // 2. Jo event perform hua h uski info ek "event object" ki form me dega.
 
 

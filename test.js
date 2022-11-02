@@ -1,6 +1,11 @@
-// myfunc();
+// console.dir(this.document);
 
+const btn = document.querySelector("button");
 
-// function myfunc() {
-//     console.log("Hello");
-// }
+console.log(btn);
+
+btn.addEventListener("click",(event)=>{
+    console.log("You clicked on btn!!!");
+})
+
+console.log("After event performed!!");

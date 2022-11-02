@@ -15,7 +15,6 @@ allButtons.forEach((button)=>{
     })
 })
 
-
 let out = 0;
 for(let i=0;i<=1000000000;i++){
     out+=i;
