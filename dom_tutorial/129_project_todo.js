@@ -1,5 +1,3 @@
-
-
 const input = document.querySelector(".form-todo input[type='text']");
 const todoForm = document.querySelector(".form-todo");
 const todoList = document.querySelector(".todo-list");
