@@ -4,7 +4,7 @@ function hello(x) {
     const a = "varA";
     const b = "varB";
 
-    return function () {
+    return function () { //functions along with the "references" to the variables are retruned
         console.log(a, b, x);
     }
 }
