@@ -1,7 +1,5 @@
 // for in loop array
 
-
-
 const array1 = ["banana", "kiwi", "apple"];
 
 for (let index in array1) {

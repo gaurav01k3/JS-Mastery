@@ -26,4 +26,4 @@ console.log(typeof firstName);
 // let num3 = 121725165271652715276157265172612n;
 // console.log(num2);
 
-// you 'cannot mix big int with' other data types
+// POINT : you 'cannot mix big int with' other data types
